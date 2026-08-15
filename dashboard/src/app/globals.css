@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  background-color: #FAFAFA;
+  color: #171717;
+  /* Font smoothing biar tulisan halus */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Biar scrollbar-nya tipis dan keren */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #e2e8f0;
+  border-radius: 10px;
+}
