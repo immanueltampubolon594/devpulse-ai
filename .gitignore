@@ -1,0 +1,15 @@
+# Rahasia API & Database (WAJIB)
+.env
+.env.local
+*.db
+ngrok.exe
+
+# Folder Sampah (Gak perlu di-upload)
+node_modules/
+.next/
+dist/
+bin/
+
+# File Sistem
+.DS_Store
+Thumbs.db
