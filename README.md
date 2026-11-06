@@ -24,3 +24,5 @@ The system follows a modern event-driven architecture:
 
 ## 👤 Author
 - **Immanuel Tampubolon** - [GitHub Profile](https://github.com/immanueltampubolon594)
+ 
+![DevPulse Architecture](docs/devpulse_arch.png) 
